@@ -1,6 +1,7 @@
 # OSMIFO
 An open source photo sorter app using python that'll make your work easily fast!
 Feel free to customize this app and distribute it (dont forget use credit for it!)
+
 Made by Education and Innovation division of OSMIB (Student School Council of Ibnu Hajar Boarding School)
 
 
